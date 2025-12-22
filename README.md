@@ -87,11 +87,3 @@ php index.php
 
 - Add `database/schema.sql` and a sample `config/database.php` if you want, I can create them.
 - Add basic unit tests and CI configuration (GitHub Actions) for automated checks.
-
-## Author
-
-Technicien Spécialisé en Développement Digital — Back-End PHP Developer
-
-## License
-
-Add a `LICENSE` file or specify license terms (MIT recommended for demos).
